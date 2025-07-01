@@ -33,10 +33,15 @@ The Car Black Box is an event data recorder (EDR) designed to capture critical d
 # Requirements
 # Hardware
   • Microcontroller: PIC18F4580
+  
   • Storage: EEPROM (AT24C02)
+  
   • Communication: CAN Transceiver (MCP2551)
+  
   • Time Management: RTC (DS1307)
+  
   • Display: CLCD screen
+  
   • User Input: Tactile buttons
 
 # Software
